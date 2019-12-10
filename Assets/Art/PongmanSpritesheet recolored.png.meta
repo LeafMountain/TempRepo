@@ -1,0 +1,1297 @@
+fileFormatVersion: 2
+guid: cd3612e27ccf4784a912a02781fb29a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6763971109107074555
+    second: PongmanSpritesheet recolored_0
+  - first:
+      213: 6611747937532052816
+    second: PongmanSpritesheet recolored_1
+  - first:
+      213: -6169068515524216675
+    second: PongmanSpritesheet recolored_2
+  - first:
+      213: -7012330544186781718
+    second: PongmanSpritesheet recolored_3
+  - first:
+      213: -3570163424464311835
+    second: PongmanSpritesheet recolored_4
+  - first:
+      213: 6617293019440828876
+    second: PongmanSpritesheet recolored_5
+  - first:
+      213: 2474747244274463448
+    second: PongmanSpritesheet recolored_7
+  - first:
+      213: -2776566078133709359
+    second: PongmanSpritesheet recolored_8
+  - first:
+      213: 8591621485222400552
+    second: PongmanSpritesheet recolored_9
+  - first:
+      213: 7304255621271894802
+    second: PongmanSpritesheet recolored_10
+  - first:
+      213: -9040935061999826258
+    second: PongmanSpritesheet recolored_11
+  - first:
+      213: 8276683703285950362
+    second: PongmanSpritesheet recolored_12
+  - first:
+      213: 6607056053590898166
+    second: PongmanSpritesheet recolored_13
+  - first:
+      213: 5542857398984529590
+    second: PongmanSpritesheet recolored_14
+  - first:
+      213: -3256630268631223811
+    second: PongmanSpritesheet recolored_15
+  - first:
+      213: -3516661704160115752
+    second: PongmanSpritesheet recolored_16
+  - first:
+      213: 1625715067227153590
+    second: PongmanSpritesheet recolored_17
+  - first:
+      213: -4497838945390716335
+    second: PongmanSpritesheet recolored_18
+  - first:
+      213: 7146942395959442551
+    second: PongmanSpritesheet recolored_19
+  - first:
+      213: 1139875151404059870
+    second: PongmanSpritesheet recolored_20
+  - first:
+      213: -4205896027323863012
+    second: PongmanSpritesheet recolored_21
+  - first:
+      213: 7441509883931052012
+    second: PongmanSpritesheet recolored_22
+  - first:
+      213: 3668373257178745772
+    second: PongmanSpritesheet recolored_23
+  - first:
+      213: -1819760544016877263
+    second: PongmanSpritesheet recolored_24
+  - first:
+      213: -2322413106920092644
+    second: PongmanSpritesheet recolored_25
+  - first:
+      213: 6249568147684637299
+    second: PongmanSpritesheet recolored_26
+  - first:
+      213: 366030213442860934
+    second: PongmanSpritesheet recolored_27
+  - first:
+      213: -8241218932563137555
+    second: PongmanSpritesheet recolored_28
+  - first:
+      213: -6101335879568039440
+    second: PongmanSpritesheet recolored_29
+  - first:
+      213: -4431856368741699876
+    second: PongmanSpritesheet recolored_30
+  - first:
+      213: 911048007781594504
+    second: PongmanSpritesheet recolored_31
+  - first:
+      213: 8528393576546283270
+    second: PongmanSpritesheet recolored_32
+  - first:
+      213: 6866778311618606580
+    second: PongmanSpritesheet recolored_33
+  - first:
+      213: 5906630426734954588
+    second: PongmanSpritesheet recolored_34
+  - first:
+      213: 8201557388057307892
+    second: PongmanSpritesheet recolored_35
+  - first:
+      213: 2860085277727921142
+    second: PongmanSpritesheet recolored_36
+  - first:
+      213: 1000280630435275766
+    second: PongmanSpritesheet recolored_37
+  - first:
+      213: 6018917143177337596
+    second: PongmanSpritesheet recolored_38
+  - first:
+      213: 193302879194714378
+    second: PongmanSpritesheet recolored_39
+  - first:
+      213: -1411479277769200300
+    second: PongmanSpritesheet recolored_40
+  - first:
+      213: 7672092567169239859
+    second: PongmanSpritesheet recolored_41
+  - first:
+      213: 6439610873204902159
+    second: PongmanSpritesheet recolored_42
+  - first:
+      213: 3857242666482547760
+    second: PongmanSpritesheet recolored_43
+  - first:
+      213: 3076420954594691106
+    second: PongmanSpritesheet recolored_44
+  - first:
+      213: -767956019980269782
+    second: PongmanSpritesheet recolored_45
+  - first:
+      213: 6779989452718242750
+    second: PongmanSpritesheet recolored_46
+  - first:
+      213: 233439067611500871
+    second: PongmanSpritesheet recolored_47
+  - first:
+      213: 6889409866774324068
+    second: PongmanSpritesheet recolored_48
+  - first:
+      213: 7954392108211604441
+    second: PongmanSpritesheet recolored_49
+  - first:
+      213: 3198635881654892107
+    second: PongmanSpritesheet recolored_50
+  - first:
+      213: -1077054392899973999
+    second: PongmanSpritesheet recolored_51
+  - first:
+      213: -6832677635198704675
+    second: PongmanSpritesheet recolored_52
+  - first:
+      213: 4767099619714030203
+    second: PongmanSpritesheet recolored_53
+  - first:
+      213: -5095244646932941554
+    second: PongmanSpritesheet recolored_54
+  - first:
+      213: -4098660859409446211
+    second: PongmanSpritesheet recolored_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024cb9e192188c42acda4ab7b8af676
+      internalID: 6763971109107074555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 416
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b99e938a3d2846b52522caf3b2af7
+      internalID: 6611747937532052816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 416
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c395b1d6002fe1b46a31e3a96c6e3384
+      internalID: -6169068515524216675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c6bf2e7e352134295853df10cf2da4
+      internalID: -7012330544186781718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 416
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46adcf6919a006846982810300e69292
+      internalID: -3570163424464311835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 416
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574bcc2737a181409488c2db968577a
+      internalID: 6617293019440828876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827bd5680ff2f4e46ae881ba5c58c383
+      internalID: 2474747244274463448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 364
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93da501741ea1946b237720d371ad6f
+      internalID: -2776566078133709359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 364
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa5f43163a9b345b768538d5196315
+      internalID: 8591621485222400552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 364
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe95741372d66d143bd38090d417738f
+      internalID: 7304255621271894802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 364
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b78d6b5bb8c7de4fb1554215fbccba8
+      internalID: -9040935061999826258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 364
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a81a12560f4b4aace5b556f2f5698
+      internalID: 8276683703285950362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989570236b3c3a744ab2b2122540691a
+      internalID: 6607056053590898166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 312
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0989ec0833bea734ba16d417431da8be
+      internalID: 5542857398984529590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71303eebd2ea0404089a4596f6a4ab5c
+      internalID: -3256630268631223811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 312
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff4559609202b9489b40db6082dc3b7
+      internalID: -3516661704160115752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 312
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a9eae43186ec46a0e82f56611eaa7
+      internalID: 1625715067227153590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 312
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d650dd243af3a46af056b7e1783166
+      internalID: -4497838945390716335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 312
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b19d69e6c8f9b4f8509329822fb1c7
+      internalID: 7146942395959442551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 312
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3569c3a21118724ab52e8b7523ee559
+      internalID: 1139875151404059870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 104
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c5aac41d7583048bdbcfd269a1712c
+      internalID: -4205896027323863012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 260
+        width: 104
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624ca1adfe4c5d84da4336c8cacec260
+      internalID: 3668373257178745772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 260
+        width: 104
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b538a9b1018964a820c6005a1215a9
+      internalID: -2322413106920092644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 260
+        width: 104
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f13709349ea10f4586ee334a86cb922
+      internalID: 366030213442860934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4727273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c6bfe115f6b6648a13b6d542ad9bc5
+      internalID: -6101335879568039440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 208
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4693877, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64ff7ea387ba949b9419a03b5ee10f
+      internalID: -4431856368741699876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c6daa971bb23419ac97431c80863a
+      internalID: 911048007781594504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 208
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40019f3848d127459006e6f8880e829
+      internalID: 8528393576546283270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 203
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb977deeeeff864caa67988cfd17085
+      internalID: 6866778311618606580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_34
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 202
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34959e0acdb526d4c876e55f11071435
+      internalID: 5906630426734954588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 202
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b004828f1063574f930288181ab5251
+      internalID: 8201557388057307892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d44b964d270644b92d0d11181919fb
+      internalID: 2860085277727921142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71581e3d1f2917f4c8838dfc5b5b9ed3
+      internalID: 1000280630435275766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4423077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d54e16527899488b7e4d30d14b3ab
+      internalID: 6018917143177337596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a95cfcdfc235743b20f88ef1696501
+      internalID: 193302879194714378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 156
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507541546dadf324c9fe274c1c7d97ea
+      internalID: -1411479277769200300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd2e7a73ca5c11429b13104f3783bbf
+      internalID: 3857242666482547760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b38e6b118b7b24c9b9f607dce3c36d
+      internalID: 3076420954594691106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4423077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b02e93ae1d2741829cdfb4cc72148
+      internalID: -767956019980269782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 104
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222f3b2e61cb134ba8648e52af41858
+      internalID: 6779989452718242750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a48a10322df64590894e06dd541c7
+      internalID: 233439067611500871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a5197946560c4aafa0c7abd8af942
+      internalID: 6889409866774324068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555df06afdd56d243bd73946598b3ff3
+      internalID: 7954392108211604441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880d882084c01c4c862fafeb3cb1a63
+      internalID: 3198635881654892107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 52
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3341205e6c45594f8fb0b7517232128
+      internalID: -1077054392899973999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a26502394b20844b9838f7de877410
+      internalID: -6832677635198704675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eafa295ec372e84ca37aeb3026fd95a
+      internalID: 4767099619714030203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3b8ccc2538ba8499ab47bf05ee0ee6
+      internalID: -5095244646932941554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PongmanSpritesheet recolored_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477678305fffca244a61b37d93139aa2
+      internalID: -4098660859409446211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

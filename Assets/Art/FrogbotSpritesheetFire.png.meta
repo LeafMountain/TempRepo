@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 5768c87f7b419284ba72d2c61bae5f22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7898630553911264521
+    second: FrogbotSpritesheetFire_0
+  - first:
+      213: -784779841477391471
+    second: FrogbotSpritesheetFire_2
+  - first:
+      213: 4515666152679233981
+    second: FrogbotSpritesheetFire_4
+  - first:
+      213: -131713526543279328
+    second: FrogbotSpritesheetFire_7
+  - first:
+      213: -5782929438575598750
+    second: FrogbotSpritesheetFire_10
+  - first:
+      213: -7535724264761672336
+    second: FrogbotSpritesheetFire_11
+  - first:
+      213: 1259193262519986090
+    second: FrogbotSpritesheetFire_12
+  - first:
+      213: -6556667520999927205
+    second: FrogbotSpritesheetFire_13
+  - first:
+      213: 3942762180474931040
+    second: FrogbotSpritesheetFire_15
+  - first:
+      213: 3099967870832899519
+    second: FrogbotSpritesheetFire_16
+  - first:
+      213: -4580060016838863933
+    second: FrogbotSpritesheetFire_19
+  - first:
+      213: -1667411746422832124
+    second: FrogbotSpritesheetFire_1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40759b0a64fcf247b695931ed3e1aa9
+      internalID: -784779841477391471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d2769424749445b900764859d553b
+      internalID: 4515666152679233981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 66
+        height: 32
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c26b24754f353e4daf4b62574910ca4
+      internalID: -131713526543279328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 67
+        height: 32
+      alignment: 9
+      pivot: {x: 0.23880596, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560514f2a5ec2a42955214310a48c7a
+      internalID: -5782929438575598750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9940fd3db4756ca4aa3c2cff4f336bf2
+      internalID: 1259193262519986090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d03d00b5e8b354d861dafa253d56a5
+      internalID: -6556667520999927205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 96
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5018ac9cbc0e054458e446f6a2ed2338
+      internalID: 3942762180474931040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 92
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3a6d8f80a81d24885dafa794d56c5f
+      internalID: 3099967870832899519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 93
+        height: 77
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0.16883117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3732aaef03bedd2459975800e6fd2298
+      internalID: -4580060016838863933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01dcd53b0ce3384faecc58c2e84b058
+      internalID: 7898630553911264521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogbotSpritesheetFire_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.516129, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f69c25580eff1449bcaa871b75b751
+      internalID: -1667411746422832124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

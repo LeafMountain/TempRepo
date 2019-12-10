@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 9bb0e54f3a88e4c4eab840600cb48e1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3962140821702982852
+    second: Frogbot Spritesheet Blue_0
+  - first:
+      213: 1688499424837452792
+    second: Frogbot Spritesheet Blue_1
+  - first:
+      213: -8815842890460259918
+    second: Frogbot Spritesheet Blue_2
+  - first:
+      213: -7748177171517895369
+    second: Frogbot Spritesheet Blue_3
+  - first:
+      213: 8770955147633605798
+    second: Frogbot Spritesheet Blue_4
+  - first:
+      213: -7323591300790662362
+    second: Frogbot Spritesheet Blue_7
+  - first:
+      213: -7447406910725770350
+    second: Frogbot Spritesheet Blue_8
+  - first:
+      213: 8963797154748315508
+    second: Frogbot Spritesheet Blue_9
+  - first:
+      213: 4766492616594705549
+    second: Frogbot Spritesheet Blue_10
+  - first:
+      213: 5014362704098842116
+    second: Frogbot Spritesheet Blue_11
+  - first:
+      213: -7173796636641378602
+    second: Frogbot Spritesheet Blue_13
+  - first:
+      213: -3413282045562462083
+    second: Frogbot Spritesheet Blue_15
+  - first:
+      213: -5775223694787097331
+    second: Frogbot Spritesheet Blue_16
+  - first:
+      213: -526662851369022884
+    second: Frogbot Spritesheet Blue_17
+  - first:
+      213: 3431188217674185179
+    second: Frogbot Spritesheet Blue_19
+  - first:
+      213: 9036605127679190820
+    second: Frogbot Spritesheet Blue_20
+  - first:
+      213: -6033159038836204439
+    second: Frogbot Spritesheet Blue_21
+  - first:
+      213: -9063888387267842552
+    second: Frogbot Spritesheet Blue_22
+  - first:
+      213: -2992276531204148558
+    second: Frogbot Spritesheet Blue_23
+  - first:
+      213: 48607128946008110
+    second: Frogbot Spritesheet Blue_24
+  - first:
+      213: 1711293466789667156
+    second: Frogbot Spritesheet Blue_26
+  - first:
+      213: -7379269468725743589
+    second: Frogbot Spritesheet Blue_28
+  - first:
+      213: -1404901633542387753
+    second: Frogbot Spritesheet Blue_29
+  - first:
+      213: -2015725263202942215
+    second: Frogbot Spritesheet Blue_30
+  - first:
+      213: -5634541079762093037
+    second: Frogbot Spritesheet Blue_33
+  - first:
+      213: -7713140707177689959
+    second: Frogbot Spritesheet Blue_36
+  - first:
+      213: 683628957120855534
+    second: Frogbot Spritesheet Blue_39
+  - first:
+      213: -2414175885356440841
+    second: Frogbot Spritesheet Blue_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 47
+        height: 34
+      alignment: 9
+      pivot: {x: 0.34042552, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b6249974b70841bf32c1cbe673ed7
+      internalID: -3962140821702982852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3046ce46db5e1164daaa0f9878b27155
+      internalID: 1688499424837452792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d31f592d5cce429e33ddefa756d7f
+      internalID: -8815842890460259918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b505eaeea31bc42a55dded6c4fc6ff
+      internalID: -7748177171517895369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a43545415bc7c44aa529797b095f891
+      internalID: 8770955147633605798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca9a360ffe8494390351d1ca006f1b
+      internalID: -7323591300790662362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f69084332f49904caf2d6b0caaf219d
+      internalID: -7447406910725770350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb67be004c01274aa23345cc04af7a9
+      internalID: 8963797154748315508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ffea41f3acd7419c0175f6cdcf447
+      internalID: 4766492616594705549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783179196c63921439977be0c9ea652f
+      internalID: 5014362704098842116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceb379b166cb9a42b635a69b2f802a4
+      internalID: -5775223694787097331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6a695164a3d14f9dc35c1324f385e
+      internalID: -526662851369022884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea54924d133149d40bad8e2da5c55816
+      internalID: 9036605127679190820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53febb9db17698e449cce55fac8f1087
+      internalID: -6033159038836204439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da72c46c659170a41ad7b51329127c11
+      internalID: -9063888387267842552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b56c507198e8a44a81769673d736b7
+      internalID: -2992276531204148558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbffe2c1e9ca82042b3925d475843686
+      internalID: 48607128946008110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195cfe1e6ea89e41a797ee92a221080
+      internalID: 1711293466789667156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.75, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0ecb86b444c3e429b43535429d78d3
+      internalID: -7379269468725743589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a91847418e7e043ab3efa4847ca33e
+      internalID: -1404901633542387753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 66
+        height: 32
+      alignment: 9
+      pivot: {x: 0.24242425, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa054e73b5d8f344bc9bb5f6cc90fb7
+      internalID: -2015725263202942215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc28a6fa24dd4134fb3df8d48603efd7
+      internalID: -5634541079762093037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 67
+        height: 32
+      alignment: 9
+      pivot: {x: 0.23880596, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e2165d26655da41a67da722c678a10
+      internalID: -7713140707177689959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61b05d8ffde2784da98e23a46b024da
+      internalID: 683628957120855534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frogbot Spritesheet Blue_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1014963616e4bd40a9befa22760260a
+      internalID: -2414175885356440841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

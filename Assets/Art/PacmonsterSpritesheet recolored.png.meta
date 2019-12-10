@@ -1,0 +1,1102 @@
+fileFormatVersion: 2
+guid: 9f3e560d31a5ee14192ca1321de39205
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8609358910394206429
+    second: PacmonsterSpritesheet recolored_0
+  - first:
+      213: 2392499052442203597
+    second: PacmonsterSpritesheet recolored_1
+  - first:
+      213: 5727404647149588460
+    second: PacmonsterSpritesheet recolored_2
+  - first:
+      213: -5517802796547376275
+    second: PacmonsterSpritesheet recolored_3
+  - first:
+      213: -8214016017610411407
+    second: PacmonsterSpritesheet recolored_4
+  - first:
+      213: 1457920516122299512
+    second: PacmonsterSpritesheet recolored_5
+  - first:
+      213: -4352706857789558404
+    second: PacmonsterSpritesheet recolored_6
+  - first:
+      213: -4092333520371405449
+    second: PacmonsterSpritesheet recolored_7
+  - first:
+      213: 1715199312270425609
+    second: PacmonsterSpritesheet recolored_8
+  - first:
+      213: -8427950222693202858
+    second: PacmonsterSpritesheet recolored_9
+  - first:
+      213: -1990060512162149567
+    second: PacmonsterSpritesheet recolored_10
+  - first:
+      213: -1000076404117655517
+    second: PacmonsterSpritesheet recolored_11
+  - first:
+      213: -7126843849210494051
+    second: PacmonsterSpritesheet recolored_12
+  - first:
+      213: 6805977716171894419
+    second: PacmonsterSpritesheet recolored_14
+  - first:
+      213: 4558695059767552047
+    second: PacmonsterSpritesheet recolored_16
+  - first:
+      213: 602696322365971060
+    second: PacmonsterSpritesheet recolored_18
+  - first:
+      213: 7502790537892966866
+    second: PacmonsterSpritesheet recolored_19
+  - first:
+      213: 1154379166614911904
+    second: PacmonsterSpritesheet recolored_20
+  - first:
+      213: -3998100600564333185
+    second: PacmonsterSpritesheet recolored_21
+  - first:
+      213: 7960994539669423231
+    second: PacmonsterSpritesheet recolored_22
+  - first:
+      213: -4293629572972099526
+    second: PacmonsterSpritesheet recolored_23
+  - first:
+      213: 907266094909370281
+    second: PacmonsterSpritesheet recolored_24
+  - first:
+      213: 8896174658845219464
+    second: PacmonsterSpritesheet recolored_25
+  - first:
+      213: -5753549899707235132
+    second: PacmonsterSpritesheet recolored_27
+  - first:
+      213: 6792173576491181884
+    second: PacmonsterSpritesheet recolored_28
+  - first:
+      213: -1216076131041184788
+    second: PacmonsterSpritesheet recolored_29
+  - first:
+      213: -4328237920943787032
+    second: PacmonsterSpritesheet recolored_30
+  - first:
+      213: -7198270021589908693
+    second: PacmonsterSpritesheet recolored_31
+  - first:
+      213: 3748884074537700989
+    second: PacmonsterSpritesheet recolored_32
+  - first:
+      213: 1654464717319611105
+    second: PacmonsterSpritesheet recolored_33
+  - first:
+      213: -9157829638036817206
+    second: PacmonsterSpritesheet recolored_34
+  - first:
+      213: -4467469253439579470
+    second: PacmonsterSpritesheet recolored_35
+  - first:
+      213: 8088971303414578043
+    second: PacmonsterSpritesheet recolored_36
+  - first:
+      213: -3638960915671674221
+    second: PacmonsterSpritesheet recolored_37
+  - first:
+      213: 6940603255517633394
+    second: PacmonsterSpritesheet recolored_38
+  - first:
+      213: -8548956928665756252
+    second: PacmonsterSpritesheet recolored_39
+  - first:
+      213: -6305641028715333390
+    second: PacmonsterSpritesheet recolored_40
+  - first:
+      213: -7637310080394572457
+    second: PacmonsterSpritesheet recolored_41
+  - first:
+      213: -22820429688335736
+    second: PacmonsterSpritesheet recolored_42
+  - first:
+      213: -36224377580851205
+    second: PacmonsterSpritesheet recolored_43
+  - first:
+      213: -1910628420124571073
+    second: PacmonsterSpritesheet recolored_44
+  - first:
+      213: 813723663555767550
+    second: PacmonsterSpritesheet recolored_45
+  - first:
+      213: -398061567593290645
+    second: PacmonsterSpritesheet recolored_46
+  - first:
+      213: -2229407684587109687
+    second: PacmonsterSpritesheet recolored_47
+  - first:
+      213: 6820693956877465429
+    second: PacmonsterSpritesheet recolored_48
+  - first:
+      213: -7934168307963997948
+    second: PacmonsterSpritesheet recolored_49
+  - first:
+      213: -5069900436117218873
+    second: PacmonsterSpritesheet recolored_50
+  - first:
+      213: -3371546360842990289
+    second: PacmonsterSpritesheet recolored_51
+  - first:
+      213: 4229928595814960360
+    second: PacmonsterSpritesheet recolored_52
+  - first:
+      213: 8957678930667646536
+    second: PacmonsterSpritesheet recolored_53
+  - first:
+      213: 5016514235350954042
+    second: PacmonsterSpritesheet recolored_54
+  - first:
+      213: 4229795245143675372
+    second: PacmonsterSpritesheet recolored_55
+  - first:
+      213: 431703875303369776
+    second: PacmonsterSpritesheet recolored_56
+  - first:
+      213: -993088375601904697
+    second: PacmonsterSpritesheet recolored_57
+  - first:
+      213: 8943662153859940134
+    second: PacmonsterSpritesheet recolored_58
+  - first:
+      213: -8030553274050741263
+    second: PacmonsterSpritesheet recolored_59
+  - first:
+      213: -8682980216999341293
+    second: PacmonsterSpritesheet recolored_60
+  - first:
+      213: 6322141954119530976
+    second: PacmonsterSpritesheet recolored_61
+  - first:
+      213: -776076036056191199
+    second: PacmonsterSpritesheet recolored_62
+  - first:
+      213: 4611846904514471809
+    second: PacmonsterSpritesheet recolored_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ffb95d7187c114c8fcdf63cdec9218
+      internalID: -8609358910394206429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463dc08284d5264c8bf0a8d7b9ce1d2
+      internalID: 2392499052442203597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b6582ffe3755d4690ae4e7b54dd4bc
+      internalID: 5727404647149588460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05094cf89a7f4ee44ba115416e740af1
+      internalID: -5517802796547376275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0686d8d1fe564488fe5e0b76c19ff0
+      internalID: -8214016017610411407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049146a5453a841448cebe4512c33edd
+      internalID: 1457920516122299512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92885d2a9ab4c884b9aef178677372cc
+      internalID: -4352706857789558404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865034700685114096ce1ae0390dc07
+      internalID: -4092333520371405449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2625758909984889e811474af9071
+      internalID: 1715199312270425609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34c686983b3fe74ba91e17fc2e9429f
+      internalID: -8427950222693202858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf1d2f7c251924f83a6ae1230d95d3
+      internalID: -1990060512162149567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e1fcad8eb74a148abdf66c7dd5718e
+      internalID: -1000076404117655517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a64288b073b91488ad7ee76d8d17bd
+      internalID: -7126843849210494051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09e022a27acc304597dafef0f84400a
+      internalID: 6805977716171894419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e61419cc3b6cce4faa1e41d96637571
+      internalID: 4558695059767552047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1463415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c7ce48ecef79c4bbf48392680c29c1
+      internalID: 602696322365971060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 215
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1463415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a51ff868221c140be186303f585ab6
+      internalID: 7502790537892966866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb870b24b301c374084cc57655b1cb35
+      internalID: 1154379166614911904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 222
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3659fce8ff48d84c9b440ce3bd133e2
+      internalID: -3998100600564333185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 32
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4603175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c000415d4cd26439591be6107e63ea
+      internalID: 7960994539669423231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 32
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeced86b5d2dd841948c72a6df2110c
+      internalID: -4293629572972099526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 32
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5cecca98e0fe46b33a7fc547e308e
+      internalID: 907266094909370281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734ef953afc41054da15fc361485cf94
+      internalID: 8896174658845219464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ed6dfed0649c249a10843a8513de0b
+      internalID: 3748884074537700989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf924ea60559fc74793819beda7e0983
+      internalID: 1654464717319611105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da86e613ddc474887ea07dc2ce2b90
+      internalID: -9157829638036817206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576d6eec8bef7e4cb0aee8bae4f6c65
+      internalID: -4467469253439579470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.40625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a93ff290caf00547a693d66ed8320c0
+      internalID: 8088971303414578043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 154
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.375, y: 0.1578947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab7fae323ecec45b7ebb8d911192a5
+      internalID: -3638960915671674221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c51b083e7e184c8179d29ebce12d9
+      internalID: 6940603255517633394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 117
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8078d2ecc3b47142ad505bb7ecdd483
+      internalID: -8548956928665756252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 117
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9662ec980c7b34791e81cc4b3e5b79
+      internalID: -6305641028715333390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 117
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae86595324ce8424e9e2aea60b8bc80e
+      internalID: -7637310080394572457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b24b4f1b2a725347bb725b8a148dac7
+      internalID: -398061567593290645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 59
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a0f2a28d77d148ad27623d22e16e0
+      internalID: -2229407684587109687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57
+        width: 56
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e20480144c6d4aa3d082130c54db3
+      internalID: 6820693956877465429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 57
+        width: 49
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e2460430d6fa449bb0a044a4d52bcc
+      internalID: -5069900436117218873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 57
+        width: 55
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dfc9edd38248649b354dd0c62f09f8
+      internalID: 4229928595814960360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacmonsterSpritesheet recolored_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af441c185ca94f4f96ffe0765e05d68
+      internalID: 5016514235350954042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
